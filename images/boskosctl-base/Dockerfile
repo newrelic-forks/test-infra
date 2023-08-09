@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Includes tools people like to use when using boskosctl
-FROM alpine:latest
+FROM alpine:3.18.3
 
 # add env we can debug with the image name:tag
 ARG IMAGE_ARG
