@@ -1,5 +1,5 @@
 webtest
 nosegae
-pylint==1.6.4
+pylint==2.6.1
 coverage
 pyyaml
